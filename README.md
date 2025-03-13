@@ -1,7 +1,7 @@
 # 🐱 Cat Breeds Website
 
 ## 📌 Project Description
-This project is a multi-page website featuring information about popular cat breeds: Persian, Siamese, and Bengal cats. The site is built using block-based layout, includes navigation between pages, and contains images, videos, and audio files.
+This project is a multi-page website featuring information about popular cat breeds: Persian, Siamese, and Bengal cats. The site is built using block-based layout, includes navigation between pages, and contains images, and videos files.
 
 ## 🛠️ Technologies Used
 - **HTML** – page structure
@@ -15,9 +15,8 @@ This project is a multi-page website featuring information about popular cat bre
 
 ## 📷 Multimedia
 Each page features:
-- An image of the corresponding cat breed.
-- A video with interesting facts about the breed.
-- An audio file (e.g., purring or cat sounds).
+- Images of the corresponding cat breed.
+- Videos with cats.
 
 ## 🎨 Design
 The website is styled in **light colors with warm brown shades** for a visually appealing and comfortable experience.
